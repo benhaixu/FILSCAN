@@ -1,7 +1,7 @@
 # FIL+ SCAN
 ## 介绍
 FIL+ SCAN 是一个浏览FIL相关数据的面板
-![image.png](https://note.youdao.com/yws/res/11232/WEBRESOURCE3fccec0b499e7ec3d96500c09d1d93c7)
+![image.png](https://github.com/benhaixu/FILSCAN/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20230130181511.png)
 ## 特性
 1. 支持查看大数据总览 包括以下数据 全网当日使用、全网累计使用，支持按日期进行数据搜索。
 2. 公证人相关数据 包含公证人排名、公证人地址、社区至公证人、公证人至客户、未分配的DC以及对应的详情，支持按照公证人地址进行数据筛选搜索。
