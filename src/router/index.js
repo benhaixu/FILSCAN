@@ -21,7 +21,7 @@ let router = new Router({
       component: data_admin_statics,
       meta: {
         index: 0,
-        title: 'EHUME'
+        title: 'DEMO'
       }
     },
     {
@@ -29,14 +29,14 @@ let router = new Router({
       name: 'index',
       component: index,
       meta: {
-        title: 'EHUME'
+        title: 'DEMO'
       }
     },{
       path: '/miner',
       name: 'miner',
       component: miner,
       meta: {
-        title: 'EHUME'
+        title: 'DEMO'
       }
     },
     {
@@ -44,7 +44,7 @@ let router = new Router({
       name: 'about',
       component: about,
       meta: {
-        title: 'EHUME'
+        title: 'DEMO'
       }
     },
     {
@@ -52,7 +52,7 @@ let router = new Router({
       name: 'serchview',
       component: serchview,
       meta: {
-        title: 'EHUME'
+        title: 'DEMO'
       }
     },
     {
@@ -60,7 +60,7 @@ let router = new Router({
       name: 'clientDetail',
       component: clientDetail,
       meta: {
-        title: 'EHUME'
+        title: 'DEMO'
       }
     },
     {
@@ -68,7 +68,7 @@ let router = new Router({
       name: 'minerDetail',
       component: minerDetail,
       meta: {
-        title: 'EHUME'
+        title: ''
       }
     },
     {
@@ -76,7 +76,7 @@ let router = new Router({
       name: 'notaryDetail',
       component: notaryDetail,
       meta: {
-        title: 'EHUME'
+        title: 'DEMO'
       }
     },
   ],

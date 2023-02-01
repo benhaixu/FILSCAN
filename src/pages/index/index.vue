@@ -5,7 +5,7 @@
       <div class="f40 index_title fbold">
         <div>Welcome to the new Internet -Web 3</div>
         <div class="title01 tLeft search_subtitle c93">
-          EHUME Can Help You Rebuild the Web's Foundation Layer<br />
+          This Can Help You Rebuild the Web's Foundation Layer<br />
           and Transition to New and Unbiased Web 3.0
         </div>
       </div>
@@ -89,7 +89,7 @@
             Computing Architecture
           </div>
           <div class="f20 ca1">
-            EHUME integrates public chains-
+             integrates public chains-
             Filecoin helps end-users improve
             bucket experience and enjoy the
             resource of the ecosystem:FVM,
@@ -102,7 +102,7 @@
             Storage Architecture
           </div>
           <div class="f20 ca1">
-            EHUME is compatible with open
+            This is compatible with open
             protocols such as IPFS,it uses
             Swarm technology to form a huge
             storage network of nodes and
@@ -117,12 +117,12 @@
             Gateway Architecture
           </div>
           <div class="f20 ca1">
-            EHUME-GATEWAY helps
+            GATEWAY helps
             users to access the nearest
             storage provider. Developers
             can quickly Idendify safe and
             rellable global acceleration
-            based on EHUME's pinning
+            based on  pinning
             service
           </div>
         </div>
@@ -163,10 +163,10 @@
         <img src="../../assets/new/anout.png" alt="" class="about_logo" />
         <div class="flex">
           <div class="f48 fbold">
-            EHUME
+            
           </div>
           <div class="f26 about_text">
-            EHUME is a Web 3.0 data storage and retrieval platform that integrates Data Dashboard, storage, computing, and network core capabilities to provide inter-blockchain (Filecoin Network) communication and web
+            This is a Web 3.0 data storage and retrieval platform that integrates Data Dashboard, storage, computing, and network core capabilities to provide inter-blockchain (Filecoin Network) communication and web
             services
           </div>
          

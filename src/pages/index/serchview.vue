@@ -5,7 +5,7 @@
       <div class="f40 index_title fbold">
         <div>Welcome to the new Internet -Web 3</div>
         <div class="title01 tLeft search_subtitle c93">
-          EHUME Can Help You Rebuild the Web's Foundation Layer<br />
+          This Can Help You Rebuild the Web's Foundation Layer<br />
           and Transition to New and Unbiased Web 3.0
         </div>
       </div>

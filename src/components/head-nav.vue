@@ -1,7 +1,7 @@
 <template>
   <div class="head-warp">
     <div class="center w1460">
-      <img @click="back" class="logo" src="../assets/new/logo.png" alt />
+  
       <div class="flex"></div>
       <div class="f20 btn hover pointer" v-for="item in menuList" :class="{ ctheme: item.select }" :key="item.id" @click="topageFun(item)">
         {{item.name}}

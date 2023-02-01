@@ -1,7 +1,7 @@
 <template>
   <div class="myBottom ">
     <div class="center w1460">
-      <img src="../assets/new/logo02.png" alt="" class="logo" @click="back" />
+    
       <div class="flex"></div>
       <!-- <div class="f20 btn hover pointer" @click="$router.push({ path: '/' })">
         FIL+Dashborad
@@ -11,8 +11,8 @@
       </div> -->
       <div class="buttom-text">
         <span class="hover pointer" @click="minerClick">S.P.</span>
-        <span class="margin">|</span>
-        <span>EHUME Global Limited</span>
+        <span class="margin"></span>
+        <span> </span>
       </div>
       <!-- <div class="f20 btn hover pointer" v-for="(item,index) in menuList" :class="{ ctheme: item.select }" :key="index" @click="topageFun(item)">
         {{item.name}}
